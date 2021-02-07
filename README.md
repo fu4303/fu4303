@@ -3,7 +3,7 @@
 <!--
 **fu4303/fu4303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?fu4303)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fu4303)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Here are some ideas to get you started:
 
