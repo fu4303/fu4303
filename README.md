@@ -3,10 +3,10 @@
 <!--
 **fu4303/fu4303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fu4303)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graphfu4303)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=rogue&area=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graphfu4303&theme=rogue&area=true" width="100%">
 </a>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
