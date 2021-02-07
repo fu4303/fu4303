@@ -9,6 +9,8 @@
  <img src="https://activity-graph.herokuapp.com/graphfu4303&theme=rogue&area=true" width="100%">
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apifu4303)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://github-readme-stats.vercel.app/api/pin/fu4303&repo=github-readme-activity-graph&theme=vue-dark">
 </a>
