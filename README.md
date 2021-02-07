@@ -5,6 +5,10 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fu4303)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=rogue&area=true" width="100%">
+</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
