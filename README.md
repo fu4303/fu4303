@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark">
+ <img src="https://github-readme-stats.vercel.app/api/pin/fu4303&repo=github-readme-activity-graph&theme=vue-dark">
 </a>
 
 Here are some ideas to get you started:
