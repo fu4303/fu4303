@@ -24,9 +24,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fu4303&layout=compact&theme=material-palenight" />
 </a>
 
-<summary>:zap: Github Stats</summary>
 
-<img align="left" alt="fu4303 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fu4303&show_icons=true&hide_border=true" />
 
 Here are some ideas to get you started:
 
@@ -39,6 +37,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<summary>:zap: Github Stats</summary>
+
+<img align="left" alt="fu4303 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fu4303&show_icons=true&hide_border=true" />
+
 
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
