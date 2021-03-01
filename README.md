@@ -25,6 +25,17 @@
 </a>
 
 
+<summary>:zap: Github Stats</summary>
+
+<img align="left" alt="fu4303 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fu4303&show_icons=true&hide_border=true" />
+
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<!--
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
+-->
 
 Here are some ideas to get you started:
 
@@ -37,15 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<summary>:zap: Github Stats</summary>
-
-<img align="left" alt="fu4303 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fu4303&show_icons=true&hide_border=true" />
-
-
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
